@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tar -C pkgsrc/nextjs-opennext -cf - .
